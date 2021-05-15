@@ -32,7 +32,7 @@ class Rectangle{
 	 }
 }
 
-class Main{
+class JavaExercise19_1{
 	public static void main(String[] args){
 		Rectangle r1 = new Rectangle(1,4,1,4);
 		Rectangle r2 =r1;
