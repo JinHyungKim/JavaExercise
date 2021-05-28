@@ -10,7 +10,7 @@ import java.util.Collections;
 // 	}
 // }
 
-class javaExercise27_1_2{
+class JavaExercise27_1_2{
 	public static void main(String[] args){
 		List<String> list = new ArrayList<>();
 		list.add("Robot");
